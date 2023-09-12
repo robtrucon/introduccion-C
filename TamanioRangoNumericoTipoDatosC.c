@@ -1,8 +1,8 @@
 /*  Codigo en C que muestra los tamaños y los rangos numericos
     de diferentes tipos de datos usando las bibliotecas <stdio.h> y <limits.h>
 */
-#include <stdio.h>
-#include <limits.h>
+#include <stdio.h>  //es necesaria para la función printf que utilizamos para mostrar los resultados en la consola.
+#include <limits.h> //contiene constantes que representan los límites de los tipos de datos.
 
 int main() {
     printf("Tamaños y rangos numericos de tipos de datos en C:\n\n");
