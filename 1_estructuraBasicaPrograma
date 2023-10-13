@@ -1,0 +1,16 @@
+// zona donde se incluyen librerias
+#include <stdio.h>
+
+// funcion principal - donde se corre todo el programa
+int main(){
+
+    /* ejemplo: como se escribe un comentario.
+       - hay de 1 linea y de muchas como este.
+    */
+
+   // impresion de primer hola mundo en C
+   printf("Hola Mundo en C");
+
+   // termina mi funcion principal (importa donde lo ponga)
+   return 0;
+}
