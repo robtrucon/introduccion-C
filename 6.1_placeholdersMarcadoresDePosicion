@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    //declaracion y asignacion de variables
+    int edad = 27;
+    float salario = 55000.50;
+
+    // %d - %8.2f placeholders son que le indican al compilador
+    // lo que debe imprimir en el lugar donde se encuentra la etiqueta
+    printf("Mi edad es %d años y mi salario es %8.2f\n", edad, salario); // se sigue el orden correcto
+
+
+}
